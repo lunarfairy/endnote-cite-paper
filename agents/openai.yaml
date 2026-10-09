@@ -1,0 +1,4 @@
+interface:
+  display_name: "EndNote Cite Paper"
+  short_description: "Add verified Word or editable EndNote citations"
+  default_prompt: "Use $endnote-cite-paper to add verified references to this completed Word manuscript, preserve its content, and deliver the requested citation format."
